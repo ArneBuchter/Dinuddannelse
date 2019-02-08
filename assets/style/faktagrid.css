@@ -10,7 +10,7 @@ aside{
         align-items: center;
         justify-content: center;
         display: flex;
-        background-image: url(../Img/Top.jpg);
+        background-image: url(../img/Top.jpg);
         min-height: 500px;
         margin: 0 0 10px;
         background-repeat: no-repeat;
