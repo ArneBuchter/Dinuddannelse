@@ -1,7 +1,7 @@
 @import url(header.css);
-@import url(Kort.css);
+@import url(kort.css);
 @import url(button.css);
-@import url(Footer.css);
+@import url(footer.css);
 
 .container{
     display: flex;
